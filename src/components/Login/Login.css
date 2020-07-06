@@ -1,0 +1,21 @@
+.login{
+    text-align: center;
+}
+
+.inputBx{
+    width: 235px;
+    height: 20px;
+}
+
+.form{
+    line-height: 50px;
+    font-size: 18px;
+}
+
+.submit{
+    font-size: 16px;
+}
+
+.password{
+    margin-right: 5px;
+}

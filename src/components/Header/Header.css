@@ -1,0 +1,25 @@
+.header{
+    height: 40px;
+    background-color: blue;
+    font-weight: bold;
+    clear: right;
+    color: white;
+    line-height: 40px;
+}
+
+.siteName{
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.logout{
+    cursor: pointer;
+    font-size: 16px;
+    float: right;
+    margin-right: 10px;
+}
+
+.logout:hover{
+    color:silver;
+}
